@@ -1,0 +1,32 @@
+[
+   {
+      "id":"1",
+      "ans":"both a and c",
+      "language":"English",
+      "op1":"click on the new button.",
+      "op2":"both a and c",
+      "op3":"use the file new command",
+      "op4":"none of the above",
+      "question":"create a new blank presentation you could."
+   },
+   {
+      "id":"2",
+      "ans":"edit",
+      "language":"English",
+      "op1":"insert",
+      "op2":"slideshow",
+      "op3":"format",
+      "op4":"edit",
+      "question":"in which menu change case command appears"
+   },
+   {
+      "id":"3",
+      "ans":"in the custom animation task pane open effects of sun and shade the sound to play for the desired number of slides",
+      "language":"English",
+      "op1":"in the custom animation task pane open effects of sun and shade the sound to play for the desired number of slides",
+      "op2":"using the record sound feature press the record button and play your music as you click through the hall sensor",
+      "op3":"using the play CD audio track features set the CD to play for the desired number of task",
+      "op4":"all of the above",
+      "question":"how do you make an insert sound file play continuously over several slides"
+   }
+]
